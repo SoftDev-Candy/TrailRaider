@@ -1,7 +1,8 @@
 # TrailRaider
 
-I am adding the drive link containing the project here (Git is not allowing me to store my project I have tried alot of different measure , I will keep trying but until then.)-https://drive.google.com/file/d/1gIqeRcSeOzijAOjTD1hwSQs04RonJkPP/view?usp=drive_link
-Please Download this file from here for the complete game.
+Download: GitHub is currently not allowing me to store the project, but you can download the complete game from this Google Drive link(https://drive.google.com/file/d/1gIqeRcSeOzijAOjTD1hwSQs04RonJkPP/view?usp=drive_link). I'll continue working on resolving the GitHub issue.
+
+
 
 
 

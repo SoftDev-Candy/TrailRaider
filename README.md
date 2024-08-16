@@ -25,4 +25,6 @@ Ongoing Development: I am currently working on adding new levels to expand the g
 This project has been a valuable learning experience, allowing me to dive deeper into game development and improve my technical skills.
 
 ![Main Hall](https://github.com/user-attachments/assets/9394b9d6-fd69-4e6e-8399-279dcfcc3679)
+This the Main Hall where the player has to solve the very first Puzzle of the game.
+
 

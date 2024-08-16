@@ -27,4 +27,12 @@ This project has been a valuable learning experience, allowing me to dive deeper
 ![Main Hall](https://github.com/user-attachments/assets/9394b9d6-fd69-4e6e-8399-279dcfcc3679)
 This the Main Hall where the player has to solve the very first Puzzle of the game.
 
+![Puzzle one ](https://github.com/user-attachments/assets/6a7c66b8-e6ac-49bd-88a7-f3cc2b16fcec)
+This what the clue to what the puzzle is , play it and see if you can figure out what the puzzle is.
+
+![StauteArena](https://github.com/user-attachments/assets/43b340e4-8c6b-4bb6-bd06-38881f1fd588)
+The hallway you need travese to reach the Main Arena where you will steal a valuable object.
+
+![StatureMosleoum](https://github.com/user-attachments/assets/d211c601-cf1c-4316-8602-140a229fad03)
+The Staute you must steal to escape, beware it is said to contain a trap.
 

@@ -1,12 +1,5 @@
 # TrailRaider
 
-Download: GitHub is currently not allowing me to store the project, but you can download the complete game from this Google Drive link(https://drive.google.com/file/d/1gIqeRcSeOzijAOjTD1hwSQs04RonJkPP/view?usp=drive_link). 
-I'll continue working on resolving the GitHub issue.
-
-
-
-
-
 TrailRaider is a game development project created to enhance my skills in game programming and level design. The project features:
 
 Lighting: Implemented using Lumen for dynamic and realistic lighting effects.
